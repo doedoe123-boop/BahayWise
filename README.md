@@ -27,16 +27,6 @@ The initial free version allows basic property listings with plans to expand fea
 
 ---
 
-## Tech Stack (Suggested)
-
-- Frontend: React.js / Next.js  
-- Backend: Node.js / Express or NestJS  
-- Database: PostgreSQL or MongoDB  
-- Authentication: JWT or Firebase Auth  
-- File Storage: AWS S3 / Firebase / Cloudinary  
-
----
-
 ## Future Plans
 
 - Subscription plans to unlock more listings  
