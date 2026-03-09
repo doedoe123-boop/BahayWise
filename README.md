@@ -1,5 +1,8 @@
 # 🏠 BahayWise
 
+> [!CAUTION]
+> **ARCHIVED REPOSITORY:** This project has been succeeded by **[NegosyoHub](https://github.com/doedoe123-boop/negosyohub)**. This repository is now read-only and will no longer receive updates.
+
 **BahayWise** is a modern, open-source SaaS real estate platform designed for landlords, agents, and renters in the Philippines. It simplifies property listings, user verification, and rental browsing, with a focus on trust, transparency, and ease of use.
 
 ---
